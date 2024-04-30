@@ -1,0 +1,5 @@
+{
+    "todo_url": "https://jsonplaceholder.typicode.com/todos/",
+    "todo_list_size": 20,
+    "todo_chunk_size": 6
+}

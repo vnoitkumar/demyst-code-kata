@@ -1,0 +1,9 @@
+.git
+doc
+infrastructure
+vendor
+.dockerignore
+.gitignore
+demyst-code-kata
+makefile
+README.md
